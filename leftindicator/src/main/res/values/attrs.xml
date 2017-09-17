@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LeftIndicatorViewGroup">
+        <attr name="left_area_width" format="dimension"/>
+        <attr name="half_big_height" format="dimension"/>
+        <attr name="big_src" format="reference|color"/>
+        <attr name="half_small_height" format="dimension"/>
+        <attr name="small_src" format="reference|color"/>
+        <attr name="small_distance" format="dimension"/>
+        <attr name="big_and_small_offset" format="dimension"/>
+    </declare-styleable>
+
+</resources>
